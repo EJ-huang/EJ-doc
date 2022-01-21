@@ -14,10 +14,10 @@ digraph hierarchy {
 
   # 連線邏輯
 
-  a->藝城科技 [label="網站開發商"]
+  a->藝誠科技 [label="網站開發商"]
   a->智邦生活館 [label="Server託管"]
   智邦生活館->local [label=" SSMS"]
-  藝城科技-> Pan [label="額外需求開發"]
+  藝誠科技-> Pan [label="額外需求開發"]
 }
 ```
 
