@@ -1,6 +1,4 @@
 # 尹星資料
-
-> An awesome project.
 ## 關聯表
 ```graphviz
 digraph hierarchy {

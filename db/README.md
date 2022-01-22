@@ -11,3 +11,8 @@
 LOCAL使用方法 [使用MS-SQL資料庫管理工具連線智邦SQL](https://help.url.com.tw/2876.html)
 
 公司固定IP `125.228.140.192`
+
+
+Server連結
+
+帳號
