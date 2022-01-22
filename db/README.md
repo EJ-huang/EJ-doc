@@ -13,6 +13,12 @@ LOCAL使用方法 [使用MS-SQL資料庫管理工具連線智邦SQL](https://hel
 公司固定IP `125.228.140.192`
 
 
-Server連結
 
-帳號
+## Server
+
+```
+FTP
+IP: 210.242.73.220
+帳號: design-b
+密碼：1K1iou%4
+```
